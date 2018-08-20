@@ -20,9 +20,9 @@ mod 'apache',
 #  :git  => ‘https://github.com/venkatavarri/puppet-ssh.git’,
 #  :ref  => master
 
-mod ‘ntp’,
- :git  => ‘https://github.com/pavans-devops/ntp',
- :ref  => ‘master’
+#mod ‘ntp’,
+# :git  => ‘https://github.com/pavans-devops/ntp',
+# :ref  => ‘master’
 
 mod ‘role’,
   :git  => ‘https://github.com/pavans-devops/role',
