@@ -21,17 +21,17 @@ mod 'apache',
 #  :ref  => master
 
 mod ‘ntp’,
- :git  => ‘https://github.com/pavans-devops/ntp.git',
+ :git  => ‘https://github.com/pavans-devops/ntp',
  :ref  => ‘master’
 
 mod ‘role’,
-  :git  => ‘https://github.com/pavans-devops/role.git',
+  :git  => ‘https://github.com/pavans-devops/role',
   :ref  => ‘master’
 
 mod ‘profile’
-  :git  => ‘https://github.com/pavans-devops/profile.git',
+  :git  => ‘https://github.com/pavans-devops/profile',
   :ref  => ‘master’
 
 mod 'tree',
-  :git  => 'https://github.com/pavans-devops/tree.git',
+  :git  => 'https://github.com/pavans-devops/tree',
   :ref  => 'master'
