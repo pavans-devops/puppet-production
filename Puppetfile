@@ -19,19 +19,3 @@ mod 'apache',
 #mod ‘ssh’,
 #  :git  => ‘https://github.com/venkatavarri/puppet-ssh.git’,
 #  :ref  => master
-
-#mod ‘ntp’,
-# :git  => ‘https://github.com/pavans-devops/ntp',
-# :ref  => ‘master’
-
-mod ‘role’,
-  :git  => ‘https://github.com/pavans-devops/role',
-  :ref  => ‘master’
-
-mod ‘profile’
-  :git  => ‘https://github.com/pavans-devops/profile',
-  :ref  => ‘master’
-
-mod 'tree',
-  :git  => 'https://github.com/pavans-devops/tree',
-  :ref  => 'master'
