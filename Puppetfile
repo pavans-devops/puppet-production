@@ -15,7 +15,3 @@ mod 'apache',
 mod ‘ssh’,
   :git  => ‘https://github.com/venkatavarri/puppet-ssh.git’,
   :ref  => master
-
-mod ‘tree’,
-  :git  => ‘https://github.com/pavans-devops/tree.git’,
-  :ref  => master
